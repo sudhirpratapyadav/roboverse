@@ -1,3 +1,5 @@
+This repo is edited version of original roboverse repo (https://github.com/avisingh599/roboverse) for the purpose of sequential task learning to be used with (https://github.com/sudhirpratapyadav/sac-cql-si). Below readme file is same as the original repo.
+
 # roboverse
 A set of environments utilizing [pybullet](https://github.com/bulletphysics/bullet3) for simulation of robotic manipulation tasks. 
 
